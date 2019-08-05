@@ -1,0 +1,9 @@
+@charset "ISO-8859-1";
+
+nav {
+	text-align: right;
+}
+
+.message {
+	background-color: #ff757e;
+}
